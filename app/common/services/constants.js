@@ -16,8 +16,8 @@ angular.module('PulseTotemCommon')
         homeRoute: '/',
         afterLoginRoute: '/dashboard',
 
-        //guestBookServiceUrl: 'http://localhost:6015/',
-        //guestBookServiceUrl: 'http://service-guestbook.pulsetotem.fr/',
-        guestBookServiceUrl: 'http://service-guestbook-test.pulsetotem.fr/',
-        guestBookClientPath: 'GuestBookClient'
+        liveCommunityServiceUrl: 'http://localhost:6020/',
+        //liveCommunityServiceUrl: 'https://service-livecommunity.pulsetotem.fr/',
+        //liveCommunityServiceUrl: 'https://service-livecommunity-test.pulsetotem.fr/',
+        liveCommunityUploadsPath: 'uploads'
     });
