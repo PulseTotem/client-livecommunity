@@ -1,0 +1,9 @@
+{
+  "LANG" : {
+    "ENGLISH": "English",
+    "FRENCH": "Français"
+  },
+  "MENU" : {
+      "VIDEO": "Video"
+  }
+}
